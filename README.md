@@ -85,7 +85,7 @@ Task and incident management tool for power plants. Used to create, assign, and 
 
 ## 📄 Resume
 
-📎 [Download Resume (PDF)](https://github.com/your-username/your-repo/blob/main/Vishnukant_Resume.pdf)
+📎 [Download Resume (PDF)](https://github.com/vishnu0933/vishnu0933/blob/main/React_Native_Vishnukant_S.pdf)
 
 ---
 
@@ -94,3 +94,4 @@ Task and incident management tool for power plants. Used to create, assign, and 
 - GitHub: [github.com/vishnu0933](https://github.com/vishnu0933)  
  
 - Email: sontakkevg@gmail.com
+- Mobile: +91 9552580933
